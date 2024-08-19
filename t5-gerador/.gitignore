@@ -1,0 +1,18 @@
+.vscode/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+temp/
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+t2-parser/target/
+t5-gerador/src/main/java/br/ufscar/dc/compiladores/LAGeradorUtils.java
+t5-gerador/src/main/antlr4/br/ufscar/dc/compiladores/.antlr/LALexer.java
+t5-gerador/src/main/antlr4/br/ufscar/dc/compiladores/.antlr/
+teste.alg
